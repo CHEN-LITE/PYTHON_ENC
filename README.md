@@ -115,8 +115,8 @@ Select: 1
 📢 JOIN OUR COMMUNITY
 
 Platform Link
-▶️ YouTube @4am-chen
-📡 Telegram Join Channel
+▶️ YouTube https://youtube.com/@4am-chen?si=Djsae5rrJrLsCDP8
+📡 Telegram https://t.me/+L7eG4ZAQ9nI1ODM1
 💬 DM Owner @CHEN_TOOL2™
 
 ---

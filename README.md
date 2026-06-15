@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-1.0-red?style=for-the-badge&logo=github)](https://github.com/CHEN_TOOL2)
+[![Version](https://img.shields.io/badge/version-2.0-red?style=for-the-badge&logo=github)](https://github.com/CHEN_TOOL2)
 [![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/license-LIFETIME%20FREE-brightgreen?style=for-the-badge)](LICENSE)
 [![Security](https://img.shields.io/badge/security-Advanced%20Protection-critical?style=for-the-badge&logo=security)]()
@@ -11,11 +11,19 @@
 
 ---
 
-## 🛡️ **FEATURES – ULTIMATE PROTECTION SYSTEM**
+## 📸 SCREENSHOT
 
 <div align="center">
+  
+![Screenshot](Screenshot_20260615-225643.jpg)
 
-| 🔐 Protection Layer | 🧠 Description |
+</div>
+
+---
+
+## 🛡️ FEATURES – ULTIMATE PROTECTION SYSTEM
+
+| 🔐 Protection Layer | 📝 Description |
 |-------------------|----------------|
 | ✅ **Advanced Protection System** | Military-grade encryption |
 | ✅ **Anti-Crack Security** | Prevents reverse engineering |
@@ -23,14 +31,12 @@
 | ✅ **Anti-Static Analysis** | Blocks disassembly tools |
 | ✅ **Anti-Debugging** | Detects & blocks debuggers |
 | ✅ **Anti-VPN Detection** | Blocks proxy/VPN connections |
-| 😰 **Anti-Frida Protection** | Defeats dynamic instrumentation |
+| ✅ **Anti-Frida Protection** | Defeats dynamic instrumentation |
 | ✅ **Device Lock Security** | Locks to specific device ID 🔒 |
-
-</div>
 
 ---
 
-## 📁 **SUPPORTED INPUTS**
+## 📁 SUPPORTED INPUTS
 
 ```
 
@@ -42,7 +48,7 @@
 
 ---
 
-## ⚙️ **INSTALLATION COMMANDS**
+## ⚙️ INSTALLATION COMMANDS
 
 Copy & paste these into **Termux** or any Linux terminal:
 
@@ -50,7 +56,7 @@ Copy & paste these into **Termux** or any Linux terminal:
 pkg update -y && pkg upgrade -y
 pkg install -y python clang binutils make pkg-config libffi openssl
 pip install --upgrade pip
-pip install requests cython
+pip install requests cython pyarmor
 ```
 
 ---
@@ -78,67 +84,58 @@ chmod +x *
 🎮 MAIN MENU PREVIEW
 
 ```
-10:56 PM
-
-PYTHON_SCRIPT_ENCRYPT_V2 @CHEN_TOOL2
-
+==========================================
 MAIN MENU
-
+==========================================
 1) PYTHON_ENC
 2) EXIT
-
+==========================================
 Select: 1
 
 [✓] Found 1 file(s)
-
 [*] Processing: enc.py
 [*] Encrypting...
 [*] Compiling...
 [✓] Binary created
 [✓] enc.py
-
 [*] Done: 1 success, 0 failed
-
-Press Enter...
 ```
 
 ---
 
-🔑 LICENSE KEY
+🔑 LICENSE
 
 ```
 ✅ KEY : LIFETIME FREE
 🆓 No payment – ever.
 ```
 
+---
+
 📢 JOIN OUR COMMUNITY
 
 Platform Link
-▶️ YouTube Channel:-
-📡 Telegram Channel :-
+▶️ YouTube @4am-chen
+📡 Telegram Join Channel
 💬 DM Owner @CHEN_TOOL2™
-
----
-
-📸 SCREENSHOT
-
-Screenshot_20260615-225643.jpg
 
 ---
 
 ⚠️ DISCLAIMER
 
 This tool is for educational & authorized security testing only.
-Do not use on code you do not own. Author is not responsible for misuse.
+Do not use on code you do not own.
+Author is not responsible for any misuse.
 
 ---
 
 <div align="center">
 
 💯 High-Level Security | Powerful Encryption 🔒
+
 🔥 ELF+ VERSION v2.0 🔥
 
 ⭐ Star this repo if you found it useful ⭐
 
 </div>
-```
+- ```

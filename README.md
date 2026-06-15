@@ -68,9 +68,9 @@ pip install requests cython
 🚀 HOW TO RUN THE TOOL
 
 ```bash
-cd /storage/emulated/0/Download/PYTHON_ENC/
-chmod +x ENC_TOOL
-./ENC_TOOL
+cd PYTHON_ENC
+chmod +x *
+./enc
 ```
 
 ---
@@ -111,33 +111,12 @@ Press Enter...
 🆓 No payment – ever.
 ```
 
----
-
-💬 SUPPORT & CONTACT
-
-<div align="center">
-
-https://img.shields.io/badge/DM%20OWNER-@CHEN_TOOL2™-26A5E4?style=for-the-badge&logo=telegram
-
-Any problem? → DM me on Telegram 🌟
-
-</div>
-
----
-
-
----
-
 📢 JOIN OUR COMMUNITY
 
-<div align="center">
-
 Platform Link
-▶️ YouTube Channel Click Here - Subscribe
-📡 Telegram Channel Click Here - Join
+▶️ YouTube Channel:-
+📡 Telegram Channel :-
 💬 DM Owner @CHEN_TOOL2™
-
-</div>
 
 ---
 
